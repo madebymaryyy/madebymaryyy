@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @madebymaryyy - Mary
 - 👀 I’m interested in world of IT and hockey.
 - 🌱 I’m currently learning programming and cybersecurity.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can reach me on discord: Maryyy#5722
 
 <!---
